@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="WindowsApplication8.exe" version="1.0.0.2" publicKeyToken="3293157d4bdb3951" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="WindowsApplication8" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="WindowsApplication8.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.ReportViewer.Common" version="11.0.0.0" publicKeyToken="89845DCD8080CC91" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.ReportViewer.DataVisualization" version="11.0.0.0" publicKeyToken="89845DCD8080CC91" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.ReportViewer.ProcessingObjectModel" version="11.0.0.0" publicKeyToken="89845DCD8080CC91" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.ReportViewer.WinForms" version="11.0.0.0" publicKeyToken="89845DCD8080CC91" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.SqlServer.Types" version="11.0.0.0" publicKeyToken="89845DCD8080CC91" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LiveCharts.WinForms.dll" size="19968">
+      <assemblyIdentity name="LiveCharts.WinForms" version="0.9.6.0" publicKeyToken="0BC1F845D1EBB8DF" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>fRGs9TVcrJ2EUfAEnvIdAUWnSQ1rnP2CdH3avi1f7vM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WindowsApplication8.exe" size="1685504">
+      <assemblyIdentity name="WindowsApplication8" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>zuMQb3WCM4ZJsBA+K+CTo5e0gRPlmrEtlX6DWGf8T5s=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="WindowsApplication8.exe.config" size="1267">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>y2fkFixKDGzVgssoSx0RGpygZXsZ6cB7E+l6UK9GUlI=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=LAPTOP-KQ07UHHG\princessbelle" issuerKeyHash="1eb3e4f3f74ac5a5430f42807611c54a5e35ab08" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>yp48sdzsUFfuVo5uPvt1j6YHMcah1nee8op6nFSnvlw=</DigestValue></Reference></SignedInfo><SignatureValue>RQxTWhETgW+hhM8PHGxqxWQ3QQibGxgK0SqqVq0vDdHgEiiNFHFW6xp89jY2UuEUNj25oNRDE/rWmLPvrjtIe0X20Qcsf7+iuriWFElwhb2rrrMa30WVqX76FqvszkVV2RyZSilqxL0NNjxcFRnABoq/84G5uFMvvqhmqpSo0ps=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>nrcvBf0dai53jHlDlAoc7ZWRnV30e+AGrQm+LHmb+utR7Wk8J0hJvJshttOJVl2KMeNUf+BNqE8bISWuCWUwgOQCsWPZa5pLID2BKWvelWrqfLzVdTWjqtqC4j5zBCR6esAAoHvUxAhhS9fwfsM/bocSieCnu36aTwmSxaPPays=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="5cbea7549c7a8af29e77d6a1c63107a68f75fb3e6e8e56ee5750ecdcb13c9eca" Description="" Url=""><as:assemblyIdentity name="WindowsApplication8.exe" version="1.0.0.2" publicKeyToken="3293157d4bdb3951" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=LAPTOP-KQ07UHHG\princessbelle</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>NNj4V81bapYmHfzp5XG2IKHeVIqZq/uurVE8LHhuqkU=</DigestValue></Reference></SignedInfo><SignatureValue>iyQm+7ZGkRAlIJwrekIVNDm1tgUNo0/QjnZjlMeij6m96rB7wp2Q8kMX+dzeR6QBNW6hNdpYLZB4syF5WY0x+qyliPvihPmXKXY3qyboOpqP+mnvf1SYKwZS0FNzvtsIPP28U+GmU+/LEGN2310bCKLNBsfSXmKiwB+M0Z4gIU0=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>nrcvBf0dai53jHlDlAoc7ZWRnV30e+AGrQm+LHmb+utR7Wk8J0hJvJshttOJVl2KMeNUf+BNqE8bISWuCWUwgOQCsWPZa5pLID2BKWvelWrqfLzVdTWjqtqC4j5zBCR6esAAoHvUxAhhS9fwfsM/bocSieCnu36aTwmSxaPPays=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIICDTCCAXagAwIBAgIQYQg4fXl+uqlN/4M7JYZEtjANBgkqhkiG9w0BAQsFADBFMUMwQQYDVQQDHjoATABBAFAAVABPAFAALQBLAFEAMAA3AFUASABIAEcAXABwAHIAaQBuAGMAZQBzAHMAYgBlAGwAbABlMB4XDTE3MTAwMTAwMDUxMloXDTE4MTAwMTA2MDUxMlowRTFDMEEGA1UEAx46AEwAQQBQAFQATwBQAC0ASwBRADAANwBVAEgASABHAFwAcAByAGkAbgBjAGUAcwBzAGIAZQBsAGwAZTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAnrcvBf0dai53jHlDlAoc7ZWRnV30e+AGrQm+LHmb+utR7Wk8J0hJvJshttOJVl2KMeNUf+BNqE8bISWuCWUwgOQCsWPZa5pLID2BKWvelWrqfLzVdTWjqtqC4j5zBCR6esAAoHvUxAhhS9fwfsM/bocSieCnu36aTwmSxaPPaysCAwEAATANBgkqhkiG9w0BAQsFAAOBgQCBXf00w66SvdN2GrHMAlPfm1HGfHNJeBqjf2+pw1i2/4KO5KkZ/4AgKopcyFyyYTRd3nFaO/dy1M1PFAJ1kZfetXGR0jD5chxWrGmeXtRbS60BasESvRn6LbBmAfEmItgFNhmSu40/9wzduk6+7rPX80NMzPwmQXU/fuJpj+1+LA==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

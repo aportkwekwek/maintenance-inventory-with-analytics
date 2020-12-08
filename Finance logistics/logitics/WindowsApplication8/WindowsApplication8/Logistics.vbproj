@@ -1,0 +1,546 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{312A1E58-43E5-4033-BF6A-9EDF4D19648B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WindowsApplication8.My.MyApplication</StartupObject>
+    <RootNamespace>WindowsApplication8</RootNamespace>
+    <AssemblyName>WindowsApplication8</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\princessbelle\Desktop\P1 System\Published\Logistics Networked\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>3</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>WindowsApplication8.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>WindowsApplication8.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>7C328525A4B6B97F1D11515C36D1ACB4F8CDC7B9</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Logistics_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="LiveCharts.WinForms">
+      <HintPath>..\..\..\finance\WindowsApplication8\packages\LiveCharts.WinForms.0.9.6\lib\net40\LiveCharts.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AcroModule.vb" />
+    <Compile Include="AnnualPOReportDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AnnualPOReportDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AnnualPurchaseOrder.Designer.vb">
+      <DependentUpon>AnnualPurchaseOrder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AnnualPurchaseOrder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContactofDriver.Designer.vb">
+      <DependentUpon>ContactofDriver.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ContactofDriver.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DailyPurchaseOrder.Designer.vb">
+      <DependentUpon>DailyPurchaseOrder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DailyPurchaseOrder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DailyPurchaseOrderDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DailyPurchaseOrderDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DriversViolation.Designer.vb">
+      <DependentUpon>DriversViolation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DriversViolation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DriverViolationDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DriverViolationDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DriverViolationReport.Designer.vb">
+      <DependentUpon>DriverViolationReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DriverViolationReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditPriceofItem.Designer.vb">
+      <DependentUpon>EditPriceofItem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EditPriceofItem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ErrorPage.Designer.vb">
+      <DependentUpon>ErrorPage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ErrorPage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.vb">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogisticsMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogisticsMain.Designer.vb">
+      <DependentUpon>frmLogisticsMain.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="getTop10mostrepairedTrucks.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>getTop10mostrepairedTrucks.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ItemsonQueueReport.Designer.vb">
+      <DependentUpon>ItemsonQueueReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ItemsonQueueReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="itemsonQueueReportDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>itemsonQueueReportDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="MaintenanceItems.Designer.vb">
+      <DependentUpon>MaintenanceItems.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MaintenanceItems.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MonthlyPurchaseOrder.Designer.vb">
+      <DependentUpon>MonthlyPurchaseOrder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MonthlyPurchaseOrder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MonthlyPurchaseOrderDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MonthlyPurchaseOrderDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Reportviewer.Designer.vb">
+      <DependentUpon>Reportviewer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reportviewer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Top10MostRepairedTrucks.Designer.vb">
+      <DependentUpon>Top10MostRepairedTrucks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Top10MostRepairedTrucks.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="top10RepairTrucks.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>top10RepairTrucks.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="truckAssetDS.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>truckAssetDS.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="TruckHistoryD.Designer.vb">
+      <DependentUpon>TruckHistoryD.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TruckHistoryD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TruckHistoryDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TruckHistoryDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="truckWorth.Designer.vb">
+      <DependentUpon>truckWorth.vb</DependentUpon>
+    </Compile>
+    <Compile Include="truckWorth.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateTruck.Designer.vb">
+      <DependentUpon>UpdateTruck.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateTruck.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="viewTruckHistory.Designer.vb">
+      <DependentUpon>viewTruckHistory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="viewTruckHistory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AnnualPurchaseOrder.resx">
+      <DependentUpon>AnnualPurchaseOrder.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContactofDriver.resx">
+      <DependentUpon>ContactofDriver.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DailyPurchaseOrder.resx">
+      <DependentUpon>DailyPurchaseOrder.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DriversViolation.resx">
+      <DependentUpon>DriversViolation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DriverViolationReport.resx">
+      <DependentUpon>DriverViolationReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditPriceofItem.resx">
+      <DependentUpon>EditPriceofItem.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ErrorPage.resx">
+      <DependentUpon>ErrorPage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogisticsMain.resx">
+      <DependentUpon>frmLogisticsMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemsonQueueReport.resx">
+      <DependentUpon>ItemsonQueueReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MaintenanceItems.resx">
+      <DependentUpon>MaintenanceItems.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MonthlyPurchaseOrder.resx">
+      <DependentUpon>MonthlyPurchaseOrder.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="POdaily.rdlc" />
+    <EmbeddedResource Include="MonthlyPurchaseOrder.rdlc" />
+    <EmbeddedResource Include="AnnualPurchaseOrder.rdlc" />
+    <EmbeddedResource Include="ItemsonQueueReport.rdlc" />
+    <EmbeddedResource Include="DriverViolation.rdlc" />
+    <EmbeddedResource Include="TruckHistory.rdlc" />
+    <EmbeddedResource Include="TruckHistoryD.resx">
+      <DependentUpon>TruckHistoryD.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TruckWorth.rdlc" />
+    <EmbeddedResource Include="top10mostRepaired.rdlc" />
+    <EmbeddedResource Include="Reportviewer.resx">
+      <DependentUpon>Reportviewer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Top10MostRepairedTrucks.resx">
+      <DependentUpon>Top10MostRepairedTrucks.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="truckWorth.resx">
+      <DependentUpon>truckWorth.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateTruck.resx">
+      <DependentUpon>UpdateTruck.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="viewTruckHistory.resx">
+      <DependentUpon>viewTruckHistory.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="AnnualPOReportDataSet.xsc">
+      <DependentUpon>AnnualPOReportDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="AnnualPOReportDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AnnualPOReportDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AnnualPOReportDataSet.xss">
+      <DependentUpon>AnnualPOReportDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DailyPurchaseOrderDataSet.xsc">
+      <DependentUpon>DailyPurchaseOrderDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DailyPurchaseOrderDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DailyPurchaseOrderDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DailyPurchaseOrderDataSet.xss">
+      <DependentUpon>DailyPurchaseOrderDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DriverViolationDataSet.xsc">
+      <DependentUpon>DriverViolationDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DriverViolationDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DriverViolationDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DriverViolationDataSet.xss">
+      <DependentUpon>DriverViolationDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="getTop10mostrepairedTrucks.xsc">
+      <DependentUpon>getTop10mostrepairedTrucks.xsd</DependentUpon>
+    </None>
+    <None Include="getTop10mostrepairedTrucks.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>getTop10mostrepairedTrucks.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="getTop10mostrepairedTrucks.xss">
+      <DependentUpon>getTop10mostrepairedTrucks.xsd</DependentUpon>
+    </None>
+    <None Include="itemsonQueueReportDataSet.xsc">
+      <DependentUpon>itemsonQueueReportDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="itemsonQueueReportDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>itemsonQueueReportDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="itemsonQueueReportDataSet.xss">
+      <DependentUpon>itemsonQueueReportDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Logistics_TemporaryKey.pfx" />
+    <None Include="MonthlyPurchaseOrderDataSet.xsc">
+      <DependentUpon>MonthlyPurchaseOrderDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="MonthlyPurchaseOrderDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MonthlyPurchaseOrderDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="MonthlyPurchaseOrderDataSet.xss">
+      <DependentUpon>MonthlyPurchaseOrderDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="top10RepairTrucks.xsc">
+      <DependentUpon>top10RepairTrucks.xsd</DependentUpon>
+    </None>
+    <None Include="top10RepairTrucks.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>top10RepairTrucks.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="top10RepairTrucks.xss">
+      <DependentUpon>top10RepairTrucks.xsd</DependentUpon>
+    </None>
+    <None Include="truckAssetDS.xsc">
+      <DependentUpon>truckAssetDS.xsd</DependentUpon>
+    </None>
+    <None Include="truckAssetDS.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>truckAssetDS.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="truckAssetDS.xss">
+      <DependentUpon>truckAssetDS.xsd</DependentUpon>
+    </None>
+    <None Include="TruckHistoryDataSet.xsc">
+      <DependentUpon>TruckHistoryDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="TruckHistoryDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TruckHistoryDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TruckHistoryDataSet.xss">
+      <DependentUpon>TruckHistoryDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Driver.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Driver1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Driver2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reports.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trucks1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deliver1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deliver.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\account1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logistics.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logistics1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logistics11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\notif.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\notif1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\none.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tractor-trailer-on-street.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ata.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\18579184_10154916342537415_421547549_n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

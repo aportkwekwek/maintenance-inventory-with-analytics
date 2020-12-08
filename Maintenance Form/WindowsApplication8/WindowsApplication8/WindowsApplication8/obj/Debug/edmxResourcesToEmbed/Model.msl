@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="AcroDistributionNetworkIncModelStoreContainer" CdmEntityContainer="AcroDistributionNetworkIncEntities">
+    <FunctionImportMapping FunctionImportName="mostRepaired" FunctionName="AcroDistributionNetworkIncModel.Store.mostRepaired">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="AcroDistributionNetworkIncModel.mostRepaired_Result">
+          <ScalarProperty Name="Total_Repairs" ColumnName="Total Repairs" />
+          <ScalarProperty Name="Truck_ID" ColumnName="Truck ID" />
+          <ScalarProperty Name="Plate_Number" ColumnName="Plate Number" />
+          <ScalarProperty Name="Color" ColumnName="Color" />
+          <ScalarProperty Name="Brand" ColumnName="Brand" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="AcroDistributionNetworkIncModelStoreContainer" CdmEntityContainer="AcroDistributionNetworkIncEntities2">
+    <FunctionImportMapping FunctionImportName="truckNumberofMaintenance" FunctionName="AcroDistributionNetworkIncModel.Store.truckNumberofMaintenance">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="AcroDistributionNetworkIncModel.truckNumberofMaintenance_Result">
+          <ScalarProperty Name="Truck_ID" ColumnName="Truck ID" />
+          <ScalarProperty Name="Number_Maintained" ColumnName="Number Maintained" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

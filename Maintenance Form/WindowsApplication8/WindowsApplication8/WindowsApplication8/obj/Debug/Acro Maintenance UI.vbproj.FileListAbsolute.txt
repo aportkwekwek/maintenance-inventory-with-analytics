@@ -1,0 +1,419 @@
+C:\Users\Jeremiah\documents\visual studio 2013\Projects\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe.config
+C:\Users\Jeremiah\documents\visual studio 2013\Projects\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe
+C:\Users\Jeremiah\documents\visual studio 2013\Projects\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.pdb
+C:\Users\Jeremiah\documents\visual studio 2013\Projects\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.xml
+C:\Users\Jeremiah\documents\visual studio 2013\Projects\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.frmMaintenanceMain.resources
+C:\Users\Jeremiah\documents\visual studio 2013\Projects\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Resources.resources
+C:\Users\Jeremiah\documents\visual studio 2013\Projects\WindowsApplication8\WindowsApplication8\obj\Debug\Acro Maintenance UI.vbproj.GenerateResource.Cache
+C:\Users\Jeremiah\documents\visual studio 2013\Projects\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.exe
+C:\Users\Jeremiah\documents\visual studio 2013\Projects\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.xml
+C:\Users\Jeremiah\documents\visual studio 2013\Projects\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.pdb
+C:\Users\Jeremiah\Documents\Visual Studio 2013\Projects\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.frmLogin.resources
+C:\Users\John Erick Cusi\Desktop\P1\ompiled\supplier maintenance vb\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe.config
+C:\Users\John Erick Cusi\Desktop\P1\ompiled\supplier maintenance vb\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.exe
+C:\Users\John Erick Cusi\Desktop\P1\ompiled\supplier maintenance vb\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.xml
+C:\Users\John Erick Cusi\Desktop\P1\ompiled\supplier maintenance vb\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.pdb
+C:\Users\John Erick Cusi\Desktop\P1\ompiled\supplier maintenance vb\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe
+C:\Users\John Erick Cusi\Desktop\P1\ompiled\supplier maintenance vb\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.pdb
+C:\Users\John Erick Cusi\Desktop\P1\ompiled\supplier maintenance vb\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.xml
+C:\Users\John Erick Cusi\Desktop\P1\ompiled\supplier maintenance vb\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.frmLogin.resources
+C:\Users\John Erick Cusi\Desktop\P1\ompiled\supplier maintenance vb\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.frmMaintenanceMain.resources
+C:\Users\John Erick Cusi\Desktop\P1\ompiled\supplier maintenance vb\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Resources.resources
+C:\Users\John Erick Cusi\Desktop\P1\ompiled\supplier maintenance vb\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\Acro Maintenance UI.vbproj.GenerateResource.Cache
+C:\Users\kethandmaria\Downloads\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe.config
+C:\Users\kethandmaria\Downloads\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.exe
+C:\Users\kethandmaria\Downloads\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.xml
+C:\Users\kethandmaria\Downloads\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.pdb
+C:\Users\kethandmaria\Downloads\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe
+C:\Users\kethandmaria\Downloads\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.pdb
+C:\Users\kethandmaria\Downloads\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.xml
+C:\Users\kethandmaria\Downloads\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.frmLogin.resources
+C:\Users\kethandmaria\Downloads\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.frmMaintenanceMain.resources
+C:\Users\kethandmaria\Downloads\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Resources.resources
+C:\Users\kethandmaria\Downloads\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\Acro Maintenance UI.vbproj.GenerateResource.Cache
+C:\Users\kethandmaria\Downloads\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\EntityFramework.dll
+C:\Users\kethandmaria\Downloads\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kethandmaria\Downloads\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.dll
+C:\Users\kethandmaria\Downloads\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\kethandmaria\Downloads\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\kethandmaria\Downloads\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\EntityFramework.xml
+C:\Users\kethandmaria\Downloads\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kethandmaria\Downloads\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.pdb
+C:\Users\kethandmaria\Downloads\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.xml
+C:\Users\kethandmaria\Downloads\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\kethandmaria\Downloads\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\kethandmaria\Downloads\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\kethandmaria\Downloads\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\kethandmaria\Downloads\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.ReportViewer.resources
+C:\Users\kethandmaria\Downloads\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.InventoryReport.resources
+C:\Users\kethandmaria\Downloads\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Maintenance_Report.resources
+C:\Users\kethandmaria\Downloads\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.PurchaseOrderReport.resources
+C:\Users\kethandmaria\Downloads\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.RepairReport.resources
+C:\Users\kethandmaria\Downloads\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\RdlCompile.cache
+C:\Users\kethandmaria\Downloads\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\RdlCompile.compiled
+C:\Users\kethandmaria\Downloads\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\Acro Maintenance UI.vbprojResolveAssemblyReference.cache
+C:\Users\John Erick Cusi\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe.config
+C:\Users\John Erick Cusi\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.exe
+C:\Users\John Erick Cusi\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.xml
+C:\Users\John Erick Cusi\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.pdb
+C:\Users\John Erick Cusi\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe
+C:\Users\John Erick Cusi\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.pdb
+C:\Users\John Erick Cusi\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.xml
+C:\Users\John Erick Cusi\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\EntityFramework.dll
+C:\Users\John Erick Cusi\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\John Erick Cusi\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.dll
+C:\Users\John Erick Cusi\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\John Erick Cusi\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\John Erick Cusi\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\EntityFramework.xml
+C:\Users\John Erick Cusi\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\John Erick Cusi\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.pdb
+C:\Users\John Erick Cusi\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.xml
+C:\Users\John Erick Cusi\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\John Erick Cusi\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\John Erick Cusi\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\John Erick Cusi\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\John Erick Cusi\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\Acro Maintenance UI.vbprojResolveAssemblyReference.cache
+C:\Users\John Erick Cusi\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.frmLogin.resources
+C:\Users\John Erick Cusi\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.frmMaintenanceMain.resources
+C:\Users\John Erick Cusi\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Maintenance_Report.resources
+C:\Users\John Erick Cusi\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Resources.resources
+C:\Users\John Erick Cusi\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.PurchaseOrderReport.resources
+C:\Users\John Erick Cusi\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.RepairReport.resources
+C:\Users\John Erick Cusi\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.ReportViewer.resources
+C:\Users\John Erick Cusi\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\Acro Maintenance UI.vbproj.GenerateResource.Cache
+C:\Users\John Erick Cusi\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\RdlCompile.cache
+C:\Users\John Erick Cusi\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\RdlCompile.compiled
+C:\Users\John Erick Cusi\Desktop\Ecusi\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe.config
+C:\Users\John Erick Cusi\Desktop\Ecusi\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.exe
+C:\Users\John Erick Cusi\Desktop\Ecusi\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.xml
+C:\Users\John Erick Cusi\Desktop\Ecusi\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.pdb
+C:\Users\John Erick Cusi\Desktop\Ecusi\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe
+C:\Users\John Erick Cusi\Desktop\Ecusi\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.pdb
+C:\Users\John Erick Cusi\Desktop\Ecusi\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.xml
+C:\Users\John Erick Cusi\Desktop\Ecusi\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\EntityFramework.dll
+C:\Users\John Erick Cusi\Desktop\Ecusi\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\John Erick Cusi\Desktop\Ecusi\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.dll
+C:\Users\John Erick Cusi\Desktop\Ecusi\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\John Erick Cusi\Desktop\Ecusi\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\John Erick Cusi\Desktop\Ecusi\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\EntityFramework.xml
+C:\Users\John Erick Cusi\Desktop\Ecusi\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\John Erick Cusi\Desktop\Ecusi\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.pdb
+C:\Users\John Erick Cusi\Desktop\Ecusi\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.xml
+C:\Users\John Erick Cusi\Desktop\Ecusi\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\John Erick Cusi\Desktop\Ecusi\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\John Erick Cusi\Desktop\Ecusi\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\John Erick Cusi\Desktop\Ecusi\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\John Erick Cusi\Desktop\Ecusi\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\Acro Maintenance UI.vbprojResolveAssemblyReference.cache
+C:\Users\John Erick Cusi\Desktop\Ecusi\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.frmLogin.resources
+C:\Users\John Erick Cusi\Desktop\Ecusi\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.frmMaintenanceMain.resources
+C:\Users\John Erick Cusi\Desktop\Ecusi\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.InventoryReport.resources
+C:\Users\John Erick Cusi\Desktop\Ecusi\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Maintenance_Report.resources
+C:\Users\John Erick Cusi\Desktop\Ecusi\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Resources.resources
+C:\Users\John Erick Cusi\Desktop\Ecusi\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.PurchaseOrderReport.resources
+C:\Users\John Erick Cusi\Desktop\Ecusi\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.RepairReport.resources
+C:\Users\John Erick Cusi\Desktop\Ecusi\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.ReportViewer.resources
+C:\Users\John Erick Cusi\Desktop\Ecusi\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\Acro Maintenance UI.vbproj.GenerateResource.Cache
+C:\Users\John Erick Cusi\Desktop\Ecusi\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\RdlCompile.cache
+C:\Users\John Erick Cusi\Desktop\Ecusi\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\RdlCompile.compiled
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe.config
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.exe
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.xml
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.pdb
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.pdb
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.xml
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\EntityFramework.dll
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.dll
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\EntityFramework.xml
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.pdb
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.xml
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.frmLogin.resources
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.frmMaintenanceMain.resources
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Maintenance_Report.resources
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Resources.resources
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.PurchaseOrderReport.resources
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.RepairReport.resources
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.ReportViewer.resources
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\Acro Maintenance UI.vbproj.GenerateResource.Cache
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\RdlCompile.cache
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\RdlCompile.compiled
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.MaintenanceRepairSummary.resources
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.TruckReportWorth.resources
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.SupplierItemAnalysis.resources
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.AnnualReport.resources
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.MonthlyReport.resources
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.TruckHistory.resources
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe.config
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.exe
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.xml
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.pdb
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.pdb
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.xml
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\EntityFramework.dll
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.dll
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\EntityFramework.xml
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.pdb
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.xml
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\Acro Maintenance UI.vbprojResolveAssemblyReference.cache
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.AnnualReport.resources
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.frmLogin.resources
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.frmMaintenanceMain.resources
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.InventoryReport.resources
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Maintenance_Report.resources
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.MaintenanceRepairSummary.resources
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.MonthlyReport.resources
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Resources.resources
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.PurchaseOrderReport.resources
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.RepairReport.resources
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.SupplierItemAnalysis.resources
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.TruckHistory.resources
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.ReportforSuppliers.resources
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.ReportViewer.resources
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.TruckReportWorth.resources
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\Acro Maintenance UI.vbproj.GenerateResource.Cache
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\RdlCompile.cache
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\RdlCompile.compiled
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe.config
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.exe
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.xml
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.pdb
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.pdb
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.xml
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\EntityFramework.dll
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.dll
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\EntityFramework.xml
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.pdb
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.xml
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.AnnualReport.resources
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.frmLogin.resources
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.frmMaintenanceMain.resources
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.InventoryReport.resources
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Maintenance_Report.resources
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.MaintenanceRepairSummary.resources
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.MonthlyReport.resources
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Resources.resources
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.PurchaseOrderReport.resources
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.RepairReport.resources
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.SupplierItemAnalysis.resources
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.TruckHistory.resources
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.ReportforSuppliers.resources
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.ReportViewer.resources
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.TruckReportWorth.resources
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\Acro Maintenance UI.vbproj.GenerateResource.Cache
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\RdlCompile.cache
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\RdlCompile.compiled
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\Acro Maintenance UI.vbprojResolveAssemblyReference.cache
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.top10mostBuy.resources
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.top10mostBuy.resources
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.TruckExpenseReport.resources
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.TruckRepairItemHistory.resources
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.InventoryCategory.resources
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.ItemIdentification.resources
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.ErrorPage.resources
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.SupplierItemAnalysisReport.resources
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.BillingReport.resources
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\Acro Maintenance UI.vbprojResolveAssemblyReference.cache
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.TechnicianAnalysisReport.resources
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.ItemsOnQueueReport.resources
+F:\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe.config
+F:\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.exe
+F:\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.xml
+F:\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.pdb
+C:\Users\John Erick Cusi\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.AnnualReport.resources
+C:\Users\John Erick Cusi\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.BillingReport.resources
+C:\Users\John Erick Cusi\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.ErrorPage.resources
+C:\Users\John Erick Cusi\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.InventoryCategory.resources
+C:\Users\John Erick Cusi\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.ItemIdentification.resources
+C:\Users\John Erick Cusi\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.ItemsOnQueueReport.resources
+C:\Users\John Erick Cusi\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.MaintenanceRepairSummary.resources
+C:\Users\John Erick Cusi\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.MonthlyReport.resources
+C:\Users\John Erick Cusi\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.SupplierItemAnalysisReport.resources
+C:\Users\John Erick Cusi\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.TechnicianAnalysisReport.resources
+C:\Users\John Erick Cusi\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.SupplierItemAnalysis.resources
+C:\Users\John Erick Cusi\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.top10mostBuy.resources
+C:\Users\John Erick Cusi\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.TruckExpenseReport.resources
+C:\Users\John Erick Cusi\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.TruckHistory.resources
+C:\Users\John Erick Cusi\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.TruckRepairItemHistory.resources
+C:\Users\John Erick Cusi\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.TruckReportWorth.resources
+C:\Users\princessbelle\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe.config
+C:\Users\princessbelle\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.exe
+C:\Users\princessbelle\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.xml
+C:\Users\princessbelle\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.pdb
+C:\Users\princessbelle\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe
+C:\Users\princessbelle\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.pdb
+C:\Users\princessbelle\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.xml
+C:\Users\princessbelle\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\EntityFramework.dll
+C:\Users\princessbelle\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\princessbelle\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.dll
+C:\Users\princessbelle\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\princessbelle\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\princessbelle\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\EntityFramework.xml
+C:\Users\princessbelle\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\princessbelle\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.pdb
+C:\Users\princessbelle\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.xml
+C:\Users\princessbelle\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\princessbelle\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\princessbelle\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\princessbelle\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\princessbelle\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.AnnualReport.resources
+C:\Users\princessbelle\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.BillingReport.resources
+C:\Users\princessbelle\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.ErrorPage.resources
+C:\Users\princessbelle\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.frmLogin.resources
+C:\Users\princessbelle\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.frmMaintenanceMain.resources
+C:\Users\princessbelle\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.InventoryCategory.resources
+C:\Users\princessbelle\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.ItemIdentification.resources
+C:\Users\princessbelle\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.ItemsOnQueueReport.resources
+C:\Users\princessbelle\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Maintenance_Report.resources
+C:\Users\princessbelle\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.MaintenanceRepairSummary.resources
+C:\Users\princessbelle\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.MonthlyReport.resources
+C:\Users\princessbelle\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Resources.resources
+C:\Users\princessbelle\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.PurchaseOrderReport.resources
+C:\Users\princessbelle\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.RepairReport.resources
+C:\Users\princessbelle\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.SupplierItemAnalysisReport.resources
+C:\Users\princessbelle\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.TechnicianAnalysisReport.resources
+C:\Users\princessbelle\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.SupplierItemAnalysis.resources
+C:\Users\princessbelle\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.top10mostBuy.resources
+C:\Users\princessbelle\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.TruckExpenseReport.resources
+C:\Users\princessbelle\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.TruckHistory.resources
+C:\Users\princessbelle\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.TruckRepairItemHistory.resources
+C:\Users\princessbelle\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.ReportViewer.resources
+C:\Users\princessbelle\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.TruckReportWorth.resources
+C:\Users\princessbelle\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\Acro Maintenance UI.vbproj.GenerateResource.Cache
+C:\Users\princessbelle\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\RdlCompile.cache
+C:\Users\princessbelle\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\RdlCompile.compiled
+C:\Users\princessbelle\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe.manifest
+C:\Users\princessbelle\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.application
+C:\Users\princessbelle\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.exe.manifest
+C:\Users\princessbelle\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.application
+C:\Users\princessbelle\Desktop\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\Acro Maintenance UI.vbprojResolveAssemblyReference.cache
+D:\ErickFiles\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe.config
+D:\ErickFiles\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.exe
+D:\ErickFiles\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.xml
+D:\ErickFiles\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.pdb
+D:\ErickFiles\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe.manifest
+D:\ErickFiles\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.application
+D:\ErickFiles\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe
+D:\ErickFiles\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.pdb
+D:\ErickFiles\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.xml
+D:\ErickFiles\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\EntityFramework.dll
+D:\ErickFiles\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\EntityFramework.SqlServer.dll
+D:\ErickFiles\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.dll
+D:\ErickFiles\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.dll
+D:\ErickFiles\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.Wpf.dll
+D:\ErickFiles\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\EntityFramework.xml
+D:\ErickFiles\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\EntityFramework.SqlServer.xml
+D:\ErickFiles\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.pdb
+D:\ErickFiles\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.xml
+D:\ErickFiles\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.pdb
+D:\ErickFiles\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.xml
+D:\ErickFiles\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.Wpf.pdb
+D:\ErickFiles\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.Wpf.xml
+D:\ErickFiles\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\Acro Maintenance UI.vbprojResolveAssemblyReference.cache
+D:\ErickFiles\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.AnnualReport.resources
+D:\ErickFiles\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.BillingReport.resources
+D:\ErickFiles\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.ErrorPage.resources
+D:\ErickFiles\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.frmLogin.resources
+D:\ErickFiles\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.frmMaintenanceMain.resources
+D:\ErickFiles\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.InventoryCategory.resources
+D:\ErickFiles\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.ItemIdentification.resources
+D:\ErickFiles\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.ItemsOnQueueReport.resources
+D:\ErickFiles\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Maintenance_Report.resources
+D:\ErickFiles\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.MaintenanceRepairSummary.resources
+D:\ErickFiles\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.MonthlyReport.resources
+D:\ErickFiles\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Resources.resources
+D:\ErickFiles\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.PurchaseOrderReport.resources
+D:\ErickFiles\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.RepairReport.resources
+D:\ErickFiles\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.SupplierItemAnalysisReport.resources
+D:\ErickFiles\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.TechnicianAnalysisReport.resources
+D:\ErickFiles\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.SupplierItemAnalysis.resources
+D:\ErickFiles\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.top10mostBuy.resources
+D:\ErickFiles\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.TruckExpenseReport.resources
+D:\ErickFiles\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.TruckHistory.resources
+D:\ErickFiles\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.TruckRepairItemHistory.resources
+D:\ErickFiles\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.ReportViewer.resources
+D:\ErickFiles\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.TruckReportWorth.resources
+D:\ErickFiles\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\Acro Maintenance UI.vbproj.GenerateResource.Cache
+D:\ErickFiles\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\RdlCompile.cache
+D:\ErickFiles\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\RdlCompile.compiled
+D:\ErickFiles\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.exe.manifest
+D:\ErickFiles\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.application
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\Acro Maintenance UI.vbprojAssemblyReference.cache
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.AnnualReport.resources
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.BillingReport.resources
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.ErrorPage.resources
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.frmLogin.resources
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.frmMaintenanceMain.resources
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.InventoryCategory.resources
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.ItemIdentification.resources
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.ItemsOnQueueReport.resources
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Maintenance_Report.resources
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.MaintenanceRepairSummary.resources
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.MonthlyReport.resources
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Resources.resources
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.PurchaseOrderReport.resources
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.RepairReport.resources
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.SupplierItemAnalysisReport.resources
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.TechnicianAnalysisReport.resources
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.SupplierItemAnalysis.resources
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.top10mostBuy.resources
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.TruckExpenseReport.resources
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.TruckHistory.resources
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.TruckRepairItemHistory.resources
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.ReportViewer.resources
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.TruckReportWorth.resources
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\Acro Maintenance UI.vbproj.GenerateResource.cache
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\Acro Maintenance UI.vbproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.exe
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.xml
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.pdb
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe.config
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe.manifest
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.application
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.pdb
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.xml
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\EntityFramework.dll
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.dll
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\EntityFramework.xml
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.pdb
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.xml
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.exe.manifest
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.application
+C:\Users\pc\Documents\Erick Folder\P1 System\Maintenance Form\WindowsApplication8\WindowsApplication8\WindowsApplication8\obj\Debug\Acro Maintenance UI.vbproj.CopyComplete

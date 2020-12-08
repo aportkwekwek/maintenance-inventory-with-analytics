@@ -1,0 +1,210 @@
+C:\Users\John Erick Cusi\Documents\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe.config
+C:\Users\John Erick Cusi\Documents\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.exe
+C:\Users\John Erick Cusi\Documents\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.xml
+C:\Users\John Erick Cusi\Documents\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.pdb
+C:\Users\John Erick Cusi\Documents\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Form1.resources
+C:\Users\John Erick Cusi\Documents\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.frmFinance.resources
+C:\Users\John Erick Cusi\Documents\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Resources.resources
+C:\Users\John Erick Cusi\Documents\WindowsApplication8\WindowsApplication8\obj\Debug\Acro Finance UI.vbproj.GenerateResource.Cache
+C:\Users\John Erick Cusi\Documents\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe
+C:\Users\John Erick Cusi\Documents\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.pdb
+C:\Users\John Erick Cusi\Documents\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.xml
+E:\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe.config
+E:\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.exe
+E:\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.xml
+E:\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.pdb
+E:\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe
+E:\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.pdb
+E:\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.xml
+E:\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.frmFinance.resources
+E:\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Resources.resources
+E:\WindowsApplication8\WindowsApplication8\obj\Debug\Acro Finance UI.vbproj.GenerateResource.Cache
+E:\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.frmLogin.resources
+H:\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe.config
+H:\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.exe
+H:\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.xml
+H:\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.pdb
+H:\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe
+H:\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.pdb
+H:\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.xml
+H:\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.frmLogin.resources
+H:\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.frmFinance.resources
+H:\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Resources.resources
+H:\WindowsApplication8\WindowsApplication8\obj\Debug\Acro Finance UI.vbproj.GenerateResource.Cache
+E:\ompiled\fiae\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe.config
+E:\ompiled\fiae\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.exe
+E:\ompiled\fiae\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.xml
+E:\ompiled\fiae\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.pdb
+E:\ompiled\fiae\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe
+E:\ompiled\fiae\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.pdb
+E:\ompiled\fiae\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.xml
+E:\ompiled\fiae\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.frmLogin.resources
+E:\ompiled\fiae\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.frmFinance.resources
+E:\ompiled\fiae\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Resources.resources
+E:\ompiled\fiae\WindowsApplication8\WindowsApplication8\obj\Debug\Acro Finance UI.vbproj.GenerateResource.Cache
+C:\Users\John Erick Cusi\Desktop\P1\ompiled\fiae\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe.config
+C:\Users\John Erick Cusi\Desktop\P1\ompiled\fiae\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.exe
+C:\Users\John Erick Cusi\Desktop\P1\ompiled\fiae\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.xml
+C:\Users\John Erick Cusi\Desktop\P1\ompiled\fiae\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.pdb
+C:\Users\kethandmaria\Downloads\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe.config
+C:\Users\kethandmaria\Downloads\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.exe
+C:\Users\kethandmaria\Downloads\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.xml
+C:\Users\kethandmaria\Downloads\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.pdb
+C:\Users\kethandmaria\Downloads\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.frmLogin.resources
+C:\Users\kethandmaria\Downloads\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.frmFinance.resources
+C:\Users\kethandmaria\Downloads\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\Acro Finance UI.vbproj.GenerateResource.Cache
+C:\Users\kethandmaria\Downloads\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe
+C:\Users\kethandmaria\Downloads\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.pdb
+C:\Users\kethandmaria\Downloads\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.xml
+C:\Users\kethandmaria\Downloads\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Resources.resources
+C:\Users\kethandmaria\Downloads\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.dll
+C:\Users\kethandmaria\Downloads\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\kethandmaria\Downloads\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\kethandmaria\Downloads\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.pdb
+C:\Users\kethandmaria\Downloads\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.xml
+C:\Users\kethandmaria\Downloads\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\kethandmaria\Downloads\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\kethandmaria\Downloads\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\kethandmaria\Downloads\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\kethandmaria\Downloads\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\Acro Finance UI.vbprojResolveAssemblyReference.cache
+C:\Users\kethandmaria\Downloads\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.PurchaseOrderReport.resources
+C:\Users\kethandmaria\Downloads\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.ReportViewer.resources
+C:\Users\kethandmaria\Downloads\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\RdlCompile.cache
+C:\Users\kethandmaria\Downloads\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\RdlCompile.compiled
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe.config
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.exe
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.xml
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.pdb
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.pdb
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.xml
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.dll
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.pdb
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.xml
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\Acro Finance UI.vbprojResolveAssemblyReference.cache
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.frmLogin.resources
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.frmFinance.resources
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Resources.resources
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.PurchaseOrderReport.resources
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.ReportViewer.resources
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\Acro Finance UI.vbproj.GenerateResource.Cache
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\RdlCompile.cache
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\RdlCompile.compiled
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe.config
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.exe
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.xml
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.pdb
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.pdb
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.xml
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.dll
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.pdb
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.xml
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\Acro Finance UI.vbprojResolveAssemblyReference.cache
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.frmLogin.resources
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.frmFinance.resources
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Resources.resources
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.PurchaseOrderReport.resources
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.ReportViewer.resources
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\Acro Finance UI.vbproj.GenerateResource.Cache
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\RdlCompile.cache
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\RdlCompile.compiled
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.BillingReport.resources
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe.config
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.exe
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.xml
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.pdb
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.pdb
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.xml
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.dll
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.pdb
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.xml
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\Acro Finance UI.vbprojResolveAssemblyReference.cache
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.BillingReport.resources
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.frmLogin.resources
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.frmFinance.resources
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Resources.resources
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.PurchaseOrderReport.resources
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.ReportViewer.resources
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\Acro Finance UI.vbproj.GenerateResource.Cache
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\RdlCompile.cache
+C:\Users\John Erick Cusi\Desktop\New folder\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\RdlCompile.compiled
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe.config
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.exe
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.xml
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.pdb
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.pdb
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.xml
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.dll
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.pdb
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.xml
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\Acro Finance UI.vbprojResolveAssemblyReference.cache
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.BillingReport.resources
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.frmLogin.resources
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.frmFinance.resources
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Resources.resources
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.PurchaseOrderReport.resources
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.ReportViewer.resources
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\Acro Finance UI.vbproj.GenerateResource.Cache
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\RdlCompile.cache
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\RdlCompile.compiled
+C:\Users\John Erick Cusi\Desktop\Database\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.TruckNetWorth.resources
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.TruckNetWorth.resources
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe.config
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.exe
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.xml
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.pdb
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.pdb
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.xml
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.dll
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.pdb
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.xml
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\Acro Finance UI.vbprojResolveAssemblyReference.cache
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.BillingReport.resources
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.ErrorPage.resources
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.frmLogin.resources
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.frmFinance.resources
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Resources.resources
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.PurchaseOrderReport.resources
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.ReportViewer.resources
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.TruckNetWorth.resources
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\Acro Finance UI.vbproj.GenerateResource.Cache
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\RdlCompile.cache
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\RdlCompile.compiled
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe.manifest
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.application
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.exe.manifest
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\finance\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.application

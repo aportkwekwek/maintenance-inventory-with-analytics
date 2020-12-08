@@ -1,0 +1,729 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{312A1E58-43E5-4033-BF6A-9EDF4D19648B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WindowsApplication8.My.MyApplication</StartupObject>
+    <RootNamespace>WindowsApplication8</RootNamespace>
+    <AssemblyName>WindowsApplication8</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\princessbelle\Desktop\P1 System\Published\Maintenance Department Networked\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>3</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>WindowsApplication8.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>WindowsApplication8.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>D09C47E13EDA67D67499120F6F94B44605AFEC7F</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Acro Maintenance UI_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework">
+      <HintPath>..\packages\EntityFramework.6.0.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\packages\EntityFramework.6.0.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts">
+      <HintPath>..\packages\LiveCharts.0.9.6\lib\net45\LiveCharts.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts.WinForms">
+      <HintPath>..\packages\LiveCharts.WinForms.0.9.6\lib\net45\LiveCharts.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts.Wpf">
+      <HintPath>..\packages\LiveCharts.Wpf.0.9.6\lib\net45\LiveCharts.Wpf.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AcroDistributionNetworkIncDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AcroDistributionNetworkIncDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AcroSupplierAnalysisDS.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AcroSupplierAnalysisDS.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AnnualReport.Designer.vb">
+      <DependentUpon>AnnualReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AnnualReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnnualReportDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AnnualReportDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="BillingReport.Designer.vb">
+      <DependentUpon>BillingReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BillingReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BillingReportDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BillingReportDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ErrorPage.Designer.vb">
+      <DependentUpon>ErrorPage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ErrorPage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="getTruckAssetwithDepds.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>getTruckAssetwithDepds.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="InventoryCategory.Designer.vb">
+      <DependentUpon>InventoryCategory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InventoryCategory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InventoryCategoryDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>InventoryCategoryDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ItemIdentification.Designer.vb">
+      <DependentUpon>ItemIdentification.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ItemIdentification.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ItemsOnQueueDS.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ItemsOnQueueDS.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ItemsOnQueueReport.Designer.vb">
+      <DependentUpon>ItemsOnQueueReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ItemsOnQueueReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="itemsOnQueueReportDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>itemsOnQueueReportDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="MaintenanceModule.vb" />
+    <Compile Include="MonthlyPurchaseOrderReport1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MonthlyPurchaseOrderReport1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="MonthlyReport.Designer.vb">
+      <DependentUpon>MonthlyReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MonthlyReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SupplierItemAnalysis.Designer.vb">
+      <DependentUpon>SupplierItemAnalysis.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SupplierItemAnalysis.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SupplierItemAnalysisReport.Designer.vb">
+      <DependentUpon>SupplierItemAnalysisReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SupplierItemAnalysisReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SupplierItemAnalysisx.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SupplierItemAnalysisx.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SupplierReport.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SupplierReport.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.Designer.vb">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMaintenanceMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMaintenanceMain.Designer.vb">
+      <DependentUpon>frmMaintenanceMain.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Maintenance Report.Designer.vb">
+      <DependentUpon>Maintenance Report.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Maintenance Report.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MaintenanceRepairSummary.Designer.vb">
+      <DependentUpon>MaintenanceRepairSummary.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MaintenanceRepairSummary.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="PurchaseOrderDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PurchaseOrderDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="PurchaseOrderReport.Designer.vb">
+      <DependentUpon>PurchaseOrderReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PurchaseOrderReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RepairReport.Designer.vb">
+      <DependentUpon>RepairReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RepairReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportViewer.Designer.vb">
+      <DependentUpon>ReportViewer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ReportViewer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TechnicianAnalysisDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TechnicianAnalysisDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="TechnicianAnalysisReport.Designer.vb">
+      <DependentUpon>TechnicianAnalysisReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TechnicianAnalysisReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="top10mostBuy.Designer.vb">
+      <DependentUpon>top10mostBuy.vb</DependentUpon>
+    </Compile>
+    <Compile Include="top10mostBuy.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="top10MostBuyds.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>top10MostBuyds.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="TruckAssetDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TruckAssetDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="truckExpenseAdditionalDS.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>truckExpenseAdditionalDS.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="truckExpenseDS.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>truckExpenseDS.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="TruckExpenseReport.Designer.vb">
+      <DependentUpon>TruckExpenseReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TruckExpenseReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TruckExpenseReportDataset.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TruckExpenseReportDataset.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="TruckHistory.Designer.vb">
+      <DependentUpon>TruckHistory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TruckHistory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="truckHistoryRepairItemsDS.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>truckHistoryRepairItemsDS.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="TruckRepairItemHistory.Designer.vb">
+      <DependentUpon>TruckRepairItemHistory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TruckRepairItemHistory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TruckReportWorth.Designer.vb">
+      <DependentUpon>TruckReportWorth.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TruckReportWorth.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AnnualReport.resx">
+      <DependentUpon>AnnualReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BillingReport.resx">
+      <DependentUpon>BillingReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ErrorPage.resx">
+      <DependentUpon>ErrorPage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMaintenanceMain.resx">
+      <DependentUpon>frmMaintenanceMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InventoryCategory.resx">
+      <DependentUpon>InventoryCategory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemIdentification.resx">
+      <DependentUpon>ItemIdentification.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemsOnQueueReport.resx">
+      <DependentUpon>ItemsOnQueueReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Maintenance Report.resx">
+      <DependentUpon>Maintenance Report.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MaintenanceRepairSummary.resx">
+      <DependentUpon>MaintenanceRepairSummary.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MonthlyReport.resx">
+      <DependentUpon>MonthlyReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PurchaseOrderReport.resx">
+      <DependentUpon>PurchaseOrderReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RepairReport.resx">
+      <DependentUpon>RepairReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PurchaseOrderReport.rdlc" />
+    <EmbeddedResource Include="MaintenanceReport.rdlc" />
+    <EmbeddedResource Include="BillingReport.rdlc" />
+    <EmbeddedResource Include="AnnualReport.rdlc" />
+    <EmbeddedResource Include="MonthlyReportPO.rdlc" />
+    <EmbeddedResource Include="ItemHistoryReport.rdlc" />
+    <EmbeddedResource Include="InventoryCategory.rdlc" />
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="ItemsOnQueueReport.rdlc" />
+    <EmbeddedResource Include="TechAnalysis.rdlc" />
+    <EmbeddedResource Include="SupplierItemAnalysisReport.resx">
+      <DependentUpon>SupplierItemAnalysisReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TechnicianAnalysisReport.resx">
+      <DependentUpon>TechnicianAnalysisReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TruckExpenseReport.rdlc" />
+    <EmbeddedResource Include="Top10mostBuy.rdlc" />
+    <EmbeddedResource Include="SupplierItemAnalysis.resx">
+      <DependentUpon>SupplierItemAnalysis.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="top10mostBuy.resx">
+      <DependentUpon>top10mostBuy.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TruckExpenseReport.resx">
+      <DependentUpon>TruckExpenseReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TruckHistory.resx">
+      <DependentUpon>TruckHistory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TruckRepairItemHistory.resx">
+      <DependentUpon>TruckRepairItemHistory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TruckReport.rdlc" />
+    <EmbeddedResource Include="ReportViewer.resx">
+      <DependentUpon>ReportViewer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TruckReportWorth.resx">
+      <DependentUpon>TruckReportWorth.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Acro Maintenance UI_TemporaryKey.pfx" />
+    <None Include="AcroDistributionNetworkIncDataSet.xsc">
+      <DependentUpon>AcroDistributionNetworkIncDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="AcroDistributionNetworkIncDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AcroDistributionNetworkIncDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AcroDistributionNetworkIncDataSet.xss">
+      <DependentUpon>AcroDistributionNetworkIncDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="AcroSupplierAnalysisDS.xsc">
+      <DependentUpon>AcroSupplierAnalysisDS.xsd</DependentUpon>
+    </None>
+    <None Include="AcroSupplierAnalysisDS.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AcroSupplierAnalysisDS.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AcroSupplierAnalysisDS.xss">
+      <DependentUpon>AcroSupplierAnalysisDS.xsd</DependentUpon>
+    </None>
+    <None Include="AnnualReportDataSet.xsc">
+      <DependentUpon>AnnualReportDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="AnnualReportDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AnnualReportDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AnnualReportDataSet.xss">
+      <DependentUpon>AnnualReportDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="BillingReportDataSet.xsc">
+      <DependentUpon>BillingReportDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="BillingReportDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BillingReportDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BillingReportDataSet.xss">
+      <DependentUpon>BillingReportDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="getTruckAssetwithDepds.xsc">
+      <DependentUpon>getTruckAssetwithDepds.xsd</DependentUpon>
+    </None>
+    <None Include="getTruckAssetwithDepds.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>getTruckAssetwithDepds.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="getTruckAssetwithDepds.xss">
+      <DependentUpon>getTruckAssetwithDepds.xsd</DependentUpon>
+    </None>
+    <None Include="InventoryCategoryDataSet.xsc">
+      <DependentUpon>InventoryCategoryDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="InventoryCategoryDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>InventoryCategoryDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="InventoryCategoryDataSet.xss">
+      <DependentUpon>InventoryCategoryDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ItemsOnQueueDS.xsc">
+      <DependentUpon>ItemsOnQueueDS.xsd</DependentUpon>
+    </None>
+    <None Include="ItemsOnQueueDS.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ItemsOnQueueDS.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ItemsOnQueueDS.xss">
+      <DependentUpon>ItemsOnQueueDS.xsd</DependentUpon>
+    </None>
+    <None Include="itemsOnQueueReportDataSet.xsc">
+      <DependentUpon>itemsOnQueueReportDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="itemsOnQueueReportDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>itemsOnQueueReportDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="itemsOnQueueReportDataSet.xss">
+      <DependentUpon>itemsOnQueueReportDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="MonthlyPurchaseOrderReport1.xsc">
+      <DependentUpon>MonthlyPurchaseOrderReport1.xsd</DependentUpon>
+    </None>
+    <None Include="MonthlyPurchaseOrderReport1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MonthlyPurchaseOrderReport1.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="MonthlyPurchaseOrderReport1.xss">
+      <DependentUpon>MonthlyPurchaseOrderReport1.xsd</DependentUpon>
+    </None>
+    <None Include="SupplierItemAnalysisx.xsc">
+      <DependentUpon>SupplierItemAnalysisx.xsd</DependentUpon>
+    </None>
+    <None Include="SupplierItemAnalysisx.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SupplierItemAnalysisx.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SupplierItemAnalysisx.xss">
+      <DependentUpon>SupplierItemAnalysisx.xsd</DependentUpon>
+    </None>
+    <None Include="SupplierReport.xsc">
+      <DependentUpon>SupplierReport.xsd</DependentUpon>
+    </None>
+    <None Include="SupplierReport.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SupplierReport.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SupplierReport.xss">
+      <DependentUpon>SupplierReport.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="TechnicianAnalysisDataSet.xsc">
+      <DependentUpon>TechnicianAnalysisDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="TechnicianAnalysisDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TechnicianAnalysisDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TechnicianAnalysisDataSet.xss">
+      <DependentUpon>TechnicianAnalysisDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="top10MostBuyds.xsc">
+      <DependentUpon>top10MostBuyds.xsd</DependentUpon>
+    </None>
+    <None Include="top10MostBuyds.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>top10MostBuyds.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="top10MostBuyds.xss">
+      <DependentUpon>top10MostBuyds.xsd</DependentUpon>
+    </None>
+    <None Include="TruckAssetDataSet.xsc">
+      <DependentUpon>TruckAssetDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="TruckAssetDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TruckAssetDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TruckAssetDataSet.xss">
+      <DependentUpon>TruckAssetDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="truckExpenseAdditionalDS.xsc">
+      <DependentUpon>truckExpenseAdditionalDS.xsd</DependentUpon>
+    </None>
+    <None Include="truckExpenseAdditionalDS.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>truckExpenseAdditionalDS.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="truckExpenseAdditionalDS.xss">
+      <DependentUpon>truckExpenseAdditionalDS.xsd</DependentUpon>
+    </None>
+    <None Include="truckExpenseDS.xsc">
+      <DependentUpon>truckExpenseDS.xsd</DependentUpon>
+    </None>
+    <None Include="truckExpenseDS.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>truckExpenseDS.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="truckExpenseDS.xss">
+      <DependentUpon>truckExpenseDS.xsd</DependentUpon>
+    </None>
+    <None Include="TruckExpenseReportDataset.xsc">
+      <DependentUpon>TruckExpenseReportDataset.xsd</DependentUpon>
+    </None>
+    <None Include="TruckExpenseReportDataset.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TruckExpenseReportDataset.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TruckExpenseReportDataset.xss">
+      <DependentUpon>TruckExpenseReportDataset.xsd</DependentUpon>
+    </None>
+    <None Include="truckHistoryRepairItemsDS.xsc">
+      <DependentUpon>truckHistoryRepairItemsDS.xsd</DependentUpon>
+    </None>
+    <None Include="truckHistoryRepairItemsDS.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>truckHistoryRepairItemsDS.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="truckHistoryRepairItemsDS.xss">
+      <DependentUpon>truckHistoryRepairItemsDS.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Technician.png" />
+    <None Include="Resources\SIA.png" />
+    <None Include="packages.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="PurchaseOrderDataSet.xsc">
+      <DependentUpon>PurchaseOrderDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="PurchaseOrderDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PurchaseOrderDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="PurchaseOrderDataSet.xss">
+      <DependentUpon>PurchaseOrderDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\18579184_10154916342537415_421547549_n.png" />
+    <Content Include="Resources\images.png" />
+    <Content Include="Resources\inv.png" />
+    <None Include="Resources\item analysis.png" />
+    <Content Include="Resources\logout.png" />
+    <Content Include="Resources\ma.png" />
+    <None Include="Resources\red1.png" />
+    <None Include="Resources\red.png" />
+    <None Include="Resources\rprt.png" />
+    <None Include="Resources\truck.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

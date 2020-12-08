@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AcroDistributionNetworkIncModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="AcroDistributionNetworkIncEntities1" annotation:LazyLoadingEnabled="true">
+    <FunctionImport Name="samplesss" ReturnType="Collection(AcroDistributionNetworkIncModel.samplesss_Result)" />
+  </EntityContainer>
+  <ComplexType Name="samplesss_Result">
+    <Property Type="Double" Name="Total" Nullable="true" />
+    <Property Type="Int32" Name="Date" Nullable="true" />
+  </ComplexType>
+</Schema>

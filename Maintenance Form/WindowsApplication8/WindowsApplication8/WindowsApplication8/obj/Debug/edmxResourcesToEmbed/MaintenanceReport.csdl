@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AcroDistributionNetworkIncModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="AcroDistributionNetworkIncEntities2" annotation:LazyLoadingEnabled="true">
+    <FunctionImport Name="truckNumberofMaintenance" ReturnType="Collection(AcroDistributionNetworkIncModel.truckNumberofMaintenance_Result)">
+      <Parameter Name="datefrom" Mode="In" Type="DateTime" />
+      <Parameter Name="dateto" Mode="In" Type="DateTime" />
+    </FunctionImport>
+  </EntityContainer>
+  <ComplexType Name="truckNumberofMaintenance_Result">
+    <Property Type="String" Name="Truck_ID" Nullable="true" MaxLength="6" />
+    <Property Type="Int32" Name="Number_Maintained" Nullable="true" />
+  </ComplexType>
+</Schema>

@@ -1,0 +1,97 @@
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe.config
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.pdb
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.xml
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.frmLogin.resources
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.frmLogisticsMain.resources
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Resources.resources
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.UpdateTruck.resources
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\Logistics.vbproj.GenerateResource.Cache
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.exe
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.xml
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.pdb
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.viewTruckHistory.resources
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Reportviewer.resources
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Top10MostRepairedTrucks.resources
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\RdlCompile.cache
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\RdlCompile.compiled
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.truckWorth.resources
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.TruckHistoryD.resources
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.DailyPurchaseOrder.resources
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.MonthlyPurchaseOrder.resources
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\Logistics.vbprojResolveAssemblyReference.cache
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.AnnualPurchaseOrder.resources
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.EditPriceofItem.resources
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.MaintenanceItems.resources
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.ErrorPage.resources
+C:\Users\princessbelle\Desktop\Erick Files\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.ItemsonQueueReport.resources
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe.config
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.exe
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.xml
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.pdb
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.pdb
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.xml
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\Logistics.vbprojResolveAssemblyReference.cache
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.AnnualPurchaseOrder.resources
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.DailyPurchaseOrder.resources
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.EditPriceofItem.resources
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.ErrorPage.resources
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.frmLogin.resources
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.frmLogisticsMain.resources
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.ItemsonQueueReport.resources
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.MaintenanceItems.resources
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.MonthlyPurchaseOrder.resources
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Resources.resources
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.TruckHistoryD.resources
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Reportviewer.resources
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Top10MostRepairedTrucks.resources
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.truckWorth.resources
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.UpdateTruck.resources
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.viewTruckHistory.resources
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\Logistics.vbproj.GenerateResource.Cache
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\RdlCompile.cache
+C:\Users\John Erick Cusi\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\RdlCompile.compiled
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe.config
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.exe
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.xml
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.pdb
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\Logistics.vbprojResolveAssemblyReference.cache
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.AnnualPurchaseOrder.resources
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.DailyPurchaseOrder.resources
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.EditPriceofItem.resources
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.ErrorPage.resources
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.frmLogin.resources
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.frmLogisticsMain.resources
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.ItemsonQueueReport.resources
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.MaintenanceItems.resources
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.MonthlyPurchaseOrder.resources
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Resources.resources
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.TruckHistoryD.resources
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Reportviewer.resources
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Top10MostRepairedTrucks.resources
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.truckWorth.resources
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.UpdateTruck.resources
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.viewTruckHistory.resources
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\Logistics.vbproj.GenerateResource.Cache
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\RdlCompile.cache
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\RdlCompile.compiled
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.pdb
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.xml
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe.manifest
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.application
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.exe.manifest
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.application
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.DriversViolation.resources
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.ContactofDriver.resources
+C:\Users\princessbelle\Desktop\P1 System\Finance logistics\logitics\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.DriverViolationReport.resources

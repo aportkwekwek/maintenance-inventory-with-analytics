@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AcroDistributionNetworkIncModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="PurchaseOrderReportFromTo" annotation:LazyLoadingEnabled="true">
+    <FunctionImport Name="purchaseOrderReports" ReturnType="Collection(AcroDistributionNetworkIncModel.purchaseOrderReports_Result)">
+      <Parameter Name="dateFrom" Mode="In" Type="DateTime" />
+      <Parameter Name="dateTo" Mode="In" Type="DateTime" />
+    </FunctionImport>
+  </EntityContainer>
+  <ComplexType Name="purchaseOrderReports_Result">
+    <Property Type="String" Name="purchaseorderid" Nullable="false" MaxLength="5" />
+    <Property Type="DateTime" Name="date" Nullable="true" />
+    <Property Type="String" Name="itemdesc" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Model" Nullable="true" MaxLength="50" />
+    <Property Type="Int32" Name="quantity" Nullable="true" />
+    <Property Type="Double" Name="total" Nullable="true" />
+  </ComplexType>
+</Schema>
